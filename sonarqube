@@ -1,0 +1,5 @@
+docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
+
+Now our sonarqube is up and running
+
+Now our sonarqube is up and running on Port :9000
